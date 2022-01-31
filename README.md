@@ -22,7 +22,7 @@ Basicamente, o desafio a ser realizado era:
 
 3 - Comparar preços fechados num intervalo de 5 minutos num prazo de 12hrs de histórico recente.
 
-**OBJETVO**
+**OBJETIVO**
 
 Meu objetivo é mostrar um breve resumo dos conhecimentos necessários para realizar este desafio.
 
