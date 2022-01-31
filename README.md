@@ -32,6 +32,16 @@ Eu utilizei a linguagem Python, linguagem a qual possui uma enorme variedade de 
 
 Na linguagem Python, eu utilizei as seguintes bibliotecas **PYTHON-BINANCE**, **BITSO-PY**, **MATPLOTLIB**, **NUMPY**, **PANDAS**, **CSV** e **DATETIME**. Bibliotecas nada mais são do que "subprogramas" que você importa para o seu código e adapta à suas necessidades.
 
+**INSTALAÇÃO DAS BIBLIOTECAS**
+
+<img src="/IMG/1 - Instalação da biblioteca.png" style="zoom:100%;" />
+
+**IMPORTANDO AS BIBLIOTECAS**
+
+![](/IMG/2.1 - Importando as bibliotecas.png)
+
+
+
 **RESUMINDO O QUE O MEU PROGRAMA REALIZA**:
 
 1 - Acessar as ***APIs\*** das corretoras buscando a informação de valor da moeda digital **ETHEREUM**. Utilizando as bibliotecas **PYTHON-BINANCE** E **BITSO-PY**.
