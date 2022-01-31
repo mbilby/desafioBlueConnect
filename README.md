@@ -40,6 +40,32 @@ Na linguagem Python, eu utilizei as seguintes bibliotecas **PYTHON-BINANCE**, **
 
 <img src="/IMG/2.1 - Importando as bibliotecas.png" style="zoom:100%" />
 
+**BUSCANDO VALORES DA MOEDA DIGITAL ETHEREUM NAS APIs DAS CORRETORAS BINANCE E BITSO**
+
+<img src="/IMG/2 - Consultando o valor.png" style="zoom:100%" />
+
+**SALVANDO E PERCORRENDO INFORMAÇÕES AS INFORMAÇÕES**
+
+<img src="/IMG/3 - Percorrendo as API's.png" style="zoom:100%" />
+
+<img src="/IMG/3 - 4 - Percorrendo as API's - parte 2.png" style="zoom:100%" />
+
+**ANALISANDO OS DADOS**
+
+<img src="/IMG/5 - Analisando os dados.png" style="zoom:100%" />
+
+**PLOTANDO AS INFORMAÇÕES**
+
+<img src="/IMG/6 - Plotando informações no gráfico.png" style="zoom:100%" />
+
+**REPRESENTANDO GRAFICAMENTE**
+
+<img src="/IMG/7 - Representação gráfica da análise.png" style="zoom:100%" />
+
+**RESPONDENDO O QUESTIONAMENTO DO CLIENTE**
+
+<img src="/IMG/8 - Vale a pena comprar de uma corretora e vender na outra.png style="zoom:100%" />
+
 
 
 **RESUMINDO O QUE O MEU PROGRAMA REALIZA**:
@@ -54,7 +80,7 @@ Na linguagem Python, eu utilizei as seguintes bibliotecas **PYTHON-BINANCE**, **
 
 5 - Representação de forma gráfica
 
-6 - Passo a sugestão ao usuário, respondendo o seguinte questionamento 
+6 - Antes de tudo quero deixar claro que não tenho uma formação financeira, e este resultado se enquadra em um opinião particular, Passo a sugestão ao usuário, respondendo o seguinte questionamento: 
 
 "**VALE A PENA COMPRAR DE UMA CORRETORA E VENDER NA OUTRA?**" 
 
