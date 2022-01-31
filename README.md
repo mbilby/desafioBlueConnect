@@ -58,7 +58,7 @@ Na linguagem Python, eu utilizei as seguintes bibliotecas **PYTHON-BINANCE**, **
 
 <img src="/IMG/6 - Plotando informações no gráfico.png" style="zoom:100%" />
 
-**REPRESENTANDO GRAFICAMENTE**
+**REPRESENTAÇÃO GRAFICA**
 
 <img src="/IMG/7 - Representação gráfica da análise.png" style="zoom:100%" />
 
