@@ -64,7 +64,7 @@ Na linguagem Python, eu utilizei as seguintes bibliotecas **PYTHON-BINANCE**, **
 
 **RESPONDENDO O QUESTIONAMENTO DO CLIENTE**
 
-<img src="/IMG/8 - Vale a pena comprar de uma corretora e vender na outra.png style="zoom:100%" />
+<img src="/IMG/8 - Vale a pena comprar de uma corretora e vender na outra.png" style="zoom:100%" />
 
 
 
