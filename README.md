@@ -38,7 +38,7 @@ Na linguagem Python, eu utilizei as seguintes bibliotecas **PYTHON-BINANCE**, **
 
 **IMPORTANDO AS BIBLIOTECAS**
 
-![](/IMG/2.1 - Importando as bibliotecas.png)
+<img src="/IMG/2.1 - Importando as bibliotecas.png" style="zoom:100%" />
 
 
 
